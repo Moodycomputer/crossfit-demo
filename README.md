@@ -1,11 +1,8 @@
-wedgies-styleguide
-==================
-
-# The Wedgies Styleguide
+# CrossFit Mobile Demo
 
 ## Installation
 
-Clone the repo and run `npm install` to fetch all the required modules
+Clone the repo and run `npm install` to fetch all required modules
 
 ## Launching The Site
 
