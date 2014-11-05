@@ -23,7 +23,7 @@ layout: none
 <body>
 
 	<div class="wrapper">
-		<iframe src="/home.html" height="568" width="320"></iframe>
+		<iframe src="http://terracomma.github.io/crossfit-demo/home.html" height="568" width="320"></iframe>
 	</div>
 
 </body>
