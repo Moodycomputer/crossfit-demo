@@ -4,7 +4,7 @@ title: "Welcome to Crossfit | Forging Elite Fitness"
 
 <header class="billboard">
 	<h1 class="tagline">Forging<br>Elite<br>Fitness</h1>
-	<a class="button" href="/start.html">Get started</a>
+	<a class="button" href="http://terracomma.github.io/crossfit-demo/start.html">Get started</a>
 	<a class="button" href="#">daily workout</a>
 </header>
 
