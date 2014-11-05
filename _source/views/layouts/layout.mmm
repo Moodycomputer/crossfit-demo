@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Crossfit | Forging Elite Fitness</title>
+	<link rel='stylesheet' href='public/styleguide/master.css' />
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+	<nav id="network-nav">
+		<p class="current-network"><strong>CROSSFIT</strong>.com</p>
+		<span class="fa fa-bars fa-lg network-list-trigger" data-triggers="network-list"></span>
+		<ul id="network-list" data-state="closed">
+			<li><a href="#">Daily</a></li>
+			<li><a href="#">Locations</a></li>
+			<li><a href="#">Journal</a></li>
+			<li><a href="#">Games</a></li>
+			<li><a href="#">Events</a></li>
+			<li><a href="#">Kids</a></li>
+			<li><a href="#">Community</a></li>
+			<li><a href="#">Store</a></li>
+		</ul>	
+	</nav>
+
+	{{> body}}
+
+	<script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="public/scripts/master.js"></script>
+
+</body>
+</html>

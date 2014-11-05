@@ -1,0 +1,16 @@
+---
+title: "Welcome to Crossfit | Forging Elite Fitness"
+---
+
+<header class="billboard">
+	<h1 class="tagline">Forging<br>Elite<br>Fitness</h1>
+	<a class="button" href="/start.html">Get started</a>
+	<a class="button" href="#">daily workout</a>
+</header>
+
+<section class="content-area">
+
+	<h2 class="section-header">CrossFit begins with a belief in fitness.</h2>
+	<p>The aim of CrossFit is to forge a broad, general and inclusive fitness. We have sought to build a program that will best prepare trainees for any physical contingency — not only for the unknown, but for the unknowable. After looking at all sport and physical tasks collectively, we asked what physical skills and adaptations would most universally lend themselves to performance advantage. Capacity culled from the intersection of all sports demands would quite logically lend itself well to all sport. In sum, our specialty is not specializing.</p>
+
+</section>
